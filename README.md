@@ -1,2 +1,2 @@
 # a2adu.github.io
-My small github podtfolio
+My small github portfolio
